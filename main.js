@@ -21,6 +21,8 @@ function setup() {
   console.clear();
   rectMode(CORNERS)
   db = new Database();
+  let a = createA('https://github.com/jeremyparadie/Subatomic-Notes#readme', 'About');
+  a.position(10, 10);
 }
 
 function draw(){
