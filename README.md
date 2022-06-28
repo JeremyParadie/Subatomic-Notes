@@ -1,11 +1,12 @@
 # Subatomic Notes
+
 [Run in browser](https://jeremyparadie.github.io/Subatomic-Notes/) 
 
 [Chat in Discord](https://discord.gg/HtFNjYdSnE)
 
 [Raise an issue](https://github.com/jeremyparadie/Subatomic-Notes/issues)
 
-%% Insert Screengrab here %%
+https://user-images.githubusercontent.com/14352758/176197576-06eaea27-6282-4624-b2eb-625ef13f558e.mp4
 
 ## What is it?
 Subatomic Notes is an experimental prototype tool for mapping highly networked thoughts and wrangling them into a single sequence for dissemination. It is intended to be used for sensemaking, knowledge synthesis and management, source reference management, and as a tool to facilitate writing. It is built on GUN, a decentralized graph database that enables realtime collaboration between users. If it becomes useful, it might be developed as an Obsidian and/or Logseq plugin and/or its own standalone program. 
